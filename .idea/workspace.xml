@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5451c763-f333-43d9-af1a-6fbdc384840e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven/apache-maven-3.3.9/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sPVM7omLYmBaeppEwsbcjLcH9u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.floatcloud.yuchengnetty.nio" />
+      <recent name="com.floatcloud.yuchengnetty.bio" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration name="AsyncYuChengServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.floatcloud.yuchengnetty.aio.AsyncYuChengServer" />
+      <module name="yuchengnetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.floatcloud.yuchengnetty.aio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.floatcloud.yuchengnetty.netty.NettyClient" />
+      <module name="yuchengnetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.floatcloud.yuchengnetty.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.floatcloud.yuchengnetty.netty.NettyServer" />
+      <module name="yuchengnetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.floatcloud.yuchengnetty.netty.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuChengClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.floatcloud.yuchengnetty.nio.selector.YuChengClient" />
+      <module name="yuchengnetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.floatcloud.yuchengnetty.nio.selector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YuChengServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.floatcloud.yuchengnetty.nio.selector.YuChengServer" />
+      <module name="yuchengnetty" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.floatcloud.yuchengnetty.nio.selector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.AsyncYuChengServer" />
+        <item itemvalue="Application.YuChengClient" />
+        <item itemvalue="Application.YuChengServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5451c763-f333-43d9-af1a-6fbdc384840e" name="Default Changelist" comment="" />
+      <created>1620774160463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620774160463</updated>
+      <workItem from="1620774168832" duration="25011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="31" key="#Project_Structure" timestamp="1620774333390">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1620774333390" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1620885401533">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1620885401533" />
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom" timestamp="1620889048598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620889048598" />
+    <state width="1398" height="267" key="GridCell.Tab.0.center" timestamp="1620889048596">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1620889048596" />
+    <state width="1398" height="267" key="GridCell.Tab.0.left" timestamp="1620889048596">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1620889048596" />
+    <state width="1398" height="267" key="GridCell.Tab.0.right" timestamp="1620889048597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1620889048597" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1620884678576">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1620884678576" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1620884678575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1620884678575" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1620884678574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1620884678574" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1620884678575">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1620884678575" />
+    <state x="214" y="63" key="SettingsEditor" timestamp="1620888937065">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="214" y="63" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1620888937065" />
+    <state x="100" y="83" width="1240" height="757" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1620888893969">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="83" width="1240" height="757" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1620888893969" />
+    <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.833@0.23.1440.833" timestamp="1620884906764" />
+    <state x="496" y="223" key="refactoring.ChangeSignatureDialog" timestamp="1620876674633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="496" y="223" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1620876674633" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/floatcloud/yuchengnetty/netty/ClientHandler.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
